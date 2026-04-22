@@ -5,15 +5,15 @@
 }
 
 :root {
-    --bg-page: #fdf0f5; /* Aqui aplicamos o rosa clarinho que você quer */
+    --bg-page: #fdfcfb;
     --card-bg: #ffffff;
     --text-main: #1c1917;
     --text-muted: #71717a;
-    --primary: #d4a373; 
+    --primary: #d4a373; /* Tom Ouro Champanhe Moderno */
     --accent-btn: #10b981;
     --promo-red: #991b1b;
     --border-color: #e4e4e7;
-    /* Aqui devolvemos o degradê do seu banner */
+    /* Fundo Rosa Escuro Premium (Cereja/Vinho) com Efeito de Luz */
     --bg-luxury: radial-gradient(circle at 50% 0%, #ff4d6d 0%, #c9184a 50%, #590d22 100%);
 }
 
