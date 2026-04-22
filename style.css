@@ -5,15 +5,14 @@
 }
 
 :root {
-    --bg-page: #fdfcfb;
+    --bg-page: #fdf0f5; /* Mudei de #fdfcfb para o seu rosa clarinho */
     --card-bg: #ffffff;
     --text-main: #1c1917;
     --text-muted: #71717a;
-    --primary: #d4a373; /* Tom Ouro Champanhe Moderno */
+    --primary: #d4a373; 
     --accent-btn: #10b981;
     --promo-red: #991b1b;
     --border-color: #e4e4e7;
-    /* Fundo Rosa Escuro Premium (Cereja/Vinho) com Efeito de Luz */
     --bg-luxury: radial-gradient(circle at 50% 0%, #ff4d6d 0%, #c9184a 50%, #590d22 100%);
 }
 
