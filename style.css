@@ -372,3 +372,4 @@ body {
 
 .total-row { display: flex; justify-content: space-between; font-size: 20px; font-weight: 800; margin-bottom: 20px; }
 .btn-checkout { width: 100%; padding: 18px; background: var(--text-main); color: white; border: none; border-radius: 8px; font-weight: 800; cursor: pointer; }
+
