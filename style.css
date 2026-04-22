@@ -5,7 +5,7 @@
 }
 
 :root {
-    --bg-page: #fdf0f5; /* Mudei de #fdfcfb para o seu rosa clarinho */
+    --bg-page: #fdf0f5; /* Aqui aplicamos o rosa clarinho que você quer */
     --card-bg: #ffffff;
     --text-main: #1c1917;
     --text-muted: #71717a;
@@ -13,6 +13,7 @@
     --accent-btn: #10b981;
     --promo-red: #991b1b;
     --border-color: #e4e4e7;
+    /* Aqui devolvemos o degradê do seu banner */
     --bg-luxury: radial-gradient(circle at 50% 0%, #ff4d6d 0%, #c9184a 50%, #590d22 100%);
 }
 
